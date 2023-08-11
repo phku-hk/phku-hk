@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phku-hk
-- 🐧 I'm coding on Linux
+- 🐧 I'm using Linux
 - ✒️ I’m confident in using C, C# and PHP
 - 🔬 I’m currently working on programming microprocessors
 - 🫰 I like creating tools, apps and games
